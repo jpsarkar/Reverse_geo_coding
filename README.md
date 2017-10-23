@@ -7,7 +7,7 @@ Problem Statement: An organization needs to know postal address corresponsing to
 
 Data file: Sample data file contains latitude and longitude. 
 
-Solution: We have applied open API from open street map. The program is written in python.
+Solution: I have applied open API from open street map. The program is written in python.
 
 Prerequisite:
 
